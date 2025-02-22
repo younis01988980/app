@@ -1,0 +1,6 @@
+cv2
+numpy
+kivy.app
+kivy.uix.image
+kivy.clock
+kivy.graphics.texture
