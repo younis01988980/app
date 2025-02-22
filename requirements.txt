@@ -1,1 +1,6 @@
 flet
+cv2
+numpy
+base64
+threading
+time
