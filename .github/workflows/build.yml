@@ -28,7 +28,7 @@ jobs:
         pyinstaller remove_bg_gui.py --noconfirm --onefile --windowed
 
     - name: Upload EXE
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: output-exe
         path: dist/remove_bg_gui.exe
